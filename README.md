@@ -1,1 +1,1 @@
-# Rapid Quizz React
+# Rapid Quizz React with Typescript
